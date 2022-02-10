@@ -1,17 +1,18 @@
 
 <table>
 
-<td>
-        <th>Personal Statistics</th>
+
+  <th>Personal Statistics</th>
+        <td>
   <img align="left" width="390" alt="" src="/general.svg">
 
 </td>
-<td>
     <th>Activity</th>
+        <td>
+
   <img align="right" width="440" alt="" src="/metrics.followup.svg">
 
 </td>
-    
 </table>
 <table>
  <td>
