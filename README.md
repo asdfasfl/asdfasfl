@@ -6,7 +6,7 @@
 </blockquote>
 
 <td>
-<img align="right" src="/metrics.classic.svg" width="335" height="290" />
+<img align="right" src="/metrics.classic.svg" width="255" height="255" />
 </td>
 <td>
 <img align="left" src="" width="315" height="290">
