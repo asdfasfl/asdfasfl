@@ -21,7 +21,7 @@
   </tr>
   
  <td>
-<img align='center' src="/achievements.svg" alt="Metrics" >
+<img align='center' width="800" src="/achievements.svg" alt="Metrics" >
 </td>
 </table>
 
