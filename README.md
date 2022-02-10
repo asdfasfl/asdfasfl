@@ -11,7 +11,6 @@
 <td>
 <img align="left" src="" width="315" height="290">
 </td>
-<td>
 </table>
 <table>
 <td>
