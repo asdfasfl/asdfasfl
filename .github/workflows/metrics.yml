@@ -43,4 +43,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes     
+          plugin_habits_charts: yes     
+          plugin_habits_trim: yes 
 
