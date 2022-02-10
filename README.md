@@ -14,14 +14,14 @@
   <img align="right" width="440" alt="" src="/metrics.followup.svg">
 
 </td>
-<!-- </table> -->
-<!-- <table> -->
+</table> 
+<table>
   <tr>
     <th>Programming laguages</th>
   </tr>
   
  <td>
-<img align='center' width="800" src="/achievements.svg" alt="Metrics" >
+<img align='center' width="" src="/achievements.svg" alt="Metrics" >
 </td>
 </table>
 
