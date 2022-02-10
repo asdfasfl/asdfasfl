@@ -6,7 +6,7 @@
 </blockquote>
 
 <td>
-<img align="right" src="" width="315" height="290" />
+<img align="right" src="/github-metrics.svg" width="315" height="290" />
 </td>
 <td>
 <img align="left" src="" width="315" height="290">
