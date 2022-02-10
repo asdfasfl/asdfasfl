@@ -2,14 +2,12 @@
 <table>
 
 <td>
-    | Personal Statistics |
-    | ----------- |
+        <th>Personal Statistics</th>
   <img align="left" width="390" alt="" src="/general.svg">
 
 </td>
 <td>
-   | Activity |
-   | ----------- |
+    <th>Activity</th>
   <img align="right" width="440" alt="" src="/metrics.followup.svg">
 
 </td>
