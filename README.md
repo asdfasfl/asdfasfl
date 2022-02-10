@@ -14,8 +14,8 @@
   <img align="right" width="440" alt="" src="/metrics.followup.svg">
 
 </td>
-</table>
-<table>
+<!-- </table> -->
+<!-- <table> -->
   <tr>
     <th>Programming laguages</th>
   </tr>
