@@ -12,7 +12,10 @@
   <img align="right" width="440" alt="" src="/metrics.followup.svg">
 
 </td>
-    <td>
+    
+</table>
+<table>
+ <td>
 <img align="buttom" src="/achievements.svg" alt="Metrics" >
 </td>
 </table>
