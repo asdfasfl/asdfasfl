@@ -9,7 +9,7 @@
 </td>
 <td>
    | Activity |
-
+   | ----------- |
   <img align="right" width="440" alt="" src="/metrics.followup.svg">
 
 </td>
