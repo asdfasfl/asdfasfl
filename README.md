@@ -5,11 +5,11 @@
 </blockquote>
 
 <td>
-  <img align="left" width="390" alt="🦑" src="/general.svg">
+  <img align="left" width="390" alt="" src="/general.svg">
 
 </td>
 <td>
-  <img align="right" width="390" alt="🦑" src="/metrics.followup.svg">
+  <img align="right" width="390" alt="" src="/metrics.followup.svg">
 
 </td>
 </table>
