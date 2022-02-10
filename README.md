@@ -16,8 +16,12 @@
 </td>
 </table>
 <table>
+  <tr>
+    <th>Programming laguages</th>
+  </tr>
+  
  <td>
-<img align="buttom" src="/achievements.svg" alt="Metrics" >
+<img src="/achievements.svg" alt="Metrics" >
 </td>
 </table>
 
