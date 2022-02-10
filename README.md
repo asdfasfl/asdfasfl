@@ -15,6 +15,6 @@
 </table>
 <table>
 <td>
-<img align="center" src="/achievements.svg" alt="Metrics" width="700">
+<img align="center" src="/achievements.svg" alt="Metrics" >
 </td>
 </table>
