@@ -15,7 +15,7 @@
 
 </td>
 </table> 
-<table>
+<table style="width:100%">
   <tr>
     <th>Programming laguages</th>
   </tr>
