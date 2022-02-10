@@ -9,7 +9,7 @@
 
 </td>
 <td>
-  <img align="right" width="390" alt="" src="/metrics.followup.svg">
+  <img align="right" width="440" alt="" src="/metrics.followup.svg">
 
 </td>
 </table>
