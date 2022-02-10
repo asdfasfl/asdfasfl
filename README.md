@@ -2,7 +2,7 @@
 <table>
 
 
-  <th>Personal Statistics</th>
+  <th align='top' >Personal Statistics</th>
         <td>
   <img align="left" width="390" alt="" src="/general.svg">
 
