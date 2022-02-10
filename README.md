@@ -1,14 +1,15 @@
 
 <table>
 
-
-  <th align='top' >Personal Statistics</th>
+  <tr>
+    <th>Personal Statistics</th>
+    <th>Activity</th>
+  </tr>
         <td>
   <img align="left" width="390" alt="" src="/general.svg">
 
 </td>
-    <th>Activity</th>
-        <td>
+    <td>
 
   <img align="right" width="440" alt="" src="/metrics.followup.svg">
 
