@@ -10,9 +10,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: 🦑 Achievements
+        uses: lowlighter/metrics@latest
         with:
-          base: header, repositories
-          filename: metrics.classic.svg
+          filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_lines: yes 
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+      - name: 🦑 General
+        uses: lowlighter/metrics@latest
+        with:
+          filename: general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          plugin_discussions: yes
