@@ -3,6 +3,7 @@
 
 <td>
     | Personal Statistics |
+    | ----------- |
   <img align="left" width="390" alt="" src="/general.svg">
 
 </td>
