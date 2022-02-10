@@ -13,7 +13,7 @@
 
 </td>
     <td>
-<img align="center" src="/achievements.svg" alt="Metrics" >
+<img align="buttom" src="/achievements.svg" alt="Metrics" >
 </td>
 </table>
 
